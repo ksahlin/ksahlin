@@ -5,4 +5,4 @@
 Here are some ideas to get you started:
 -->
 
-I am an assistant professor at Stockholm University (the Department of Mathematics) and SciLifeLab Fellow at the National Center for Molecular Biosciences, Science for Life Laboratory. My group develops algorithms and models for analyzing large biological datasets.
+I am an associate professor at Stockholm University (the Department of Mathematics) and SciLifeLab Fellow at the National Center for Molecular Biosciences, Science for Life Laboratory. My group develops algorithms and models for analyzing large biological datasets.
